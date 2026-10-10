@@ -8,7 +8,7 @@
     <?php 
      /*comentaire*/
         echo "Bienvenue dans mon TP PHP <br>";
-        echo "Nom : lghazouani <br>";
+        echo "Nom : lgh <br>";
         echo "Prénom : Chayma <br>";
         echo "Gr : 1 <br>";
   
